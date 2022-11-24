@@ -1,1 +1,1 @@
-echo "Hello Word desde Jenkins"
+echo "Hello Word desde Git"
